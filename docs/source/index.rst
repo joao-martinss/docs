@@ -15,6 +15,4 @@ Welcome to joao_martins's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
