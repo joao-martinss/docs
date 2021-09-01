@@ -15,6 +15,7 @@ Welcome to joao_martins's documentation!
 Indices and tables
 ==================
 
+
 <<<<<<< HEAD
 =======
 
