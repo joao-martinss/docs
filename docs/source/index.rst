@@ -15,3 +15,7 @@ Welcome to joao_martins's documentation!
 Indices and tables
 ==================
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 301e281ade4554f025b14828830754176387d15c
